@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PyCharm
+Exec=PATH_TO_PYCHARM_DIR/bin/pycharm.sh
+Icon=PATH_TO_PYCHARM_DIR/bin/PyCharm_32.png
+Type=Application
+Categories=Development;
+StartupWMClass=PyCharm

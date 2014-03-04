@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=IDEA
+Exec=PATH_TO_IDEA_DIR/bin/idea.sh
+Icon=PATH_TO_IDEA_DIR/bin/idea_CE128.png
+Type=Application
+Categories=Development;
+StartupWMClass=IDEA
