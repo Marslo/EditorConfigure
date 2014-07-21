@@ -2,16 +2,16 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name[en_US]=IDEA
-Name=IDEA-13
+Name=IDEA-13.1.2
 Type=Application
 Categories=Development;
 StartupWMClass=IDEA
 Comment[en_US]=
 Comment=
-Exec=/proj/MSP/team_M/tools/idea-13/bin/idea.sh >/dev/null 2>&1 &
-GenericName[en_US]=IEDA-13
-GenericName=IEDA-13
-Icon=/proj/MSP/team_M/tools/idea-13/bin/idea.png
+Exec=/proj/MSP/team_M/tools/idea-13.1.2/bin/idea.sh >/dev/null 2>&1 &
+GenericName[en_US]=IEDA-13.1
+GenericName=IEDA-13.1.2
+Icon=/proj/MSP/team_M/tools/idea-13.1.2/bin/idea.png
 StartupNotify=true
 Terminal=false
 TerminalOptions=
@@ -22,3 +22,4 @@ X-KDE-StartupNotify=true
 X-KDE-SubstituteUID=false
 X-KDE-Username=
 X-SuSE-translate=true
+GenericName[en_US.UTF-8]=IEDA-13.1.2
